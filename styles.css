@@ -1,0 +1,17 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: helvetica;
+    background-image: url(https://wallpapers.com/images/featured-full/planet-wyfgjszznjpmgs3h.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: aliceblue;
+}
+
+nav{
+    background-color: #59e1e3;
+    padding: 0px;
+    color:white;
+}
